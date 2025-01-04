@@ -3,5 +3,5 @@
 *.txt
 venv/
 output/
-output.pdf
+*.pdf
 .DS_Store
