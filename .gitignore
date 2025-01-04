@@ -1,0 +1,7 @@
+.vscode/
+.pylintrc
+*.txt
+venv/
+output/
+output.pdf
+.DS_Store
